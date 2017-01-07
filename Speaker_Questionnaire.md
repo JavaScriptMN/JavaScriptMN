@@ -1,4 +1,4 @@
-# Speaker Questionaire
+# Speaker Questionnaire
 
 We ask that those speaking at our meetup 
 prepare asnwers to the following questions 
