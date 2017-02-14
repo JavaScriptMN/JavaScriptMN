@@ -1,4 +1,4 @@
-# Sponsorship Opprotunities
+# Sponsorship Opportunities
 
 ### $2,500 Level
 
