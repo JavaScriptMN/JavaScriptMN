@@ -1,7 +1,7 @@
 <!-- NOTE: this is a template, please edit a copy before pasting into email :)  -->
 Dear [Speaker name],
 
-We're thrilled you're going to be presenting at tomorrow's JavaScript.MN Meetup. We wanted to reach out again ahead of tomorrow's event with a little more on the logistics.
+We're thrilled you're going to be presenting at tomorrow's JavaScript Minnesota Meetup. We wanted to reach out again ahead of tomorrow's event with a little more on the logistics.
 
 Arrival: Feel free to arrive at the venue any time between 5:30 and 6pm. [Organizer(s) chosen for speaker contact] will be on site to make sure you get in and help you get set up.
 
